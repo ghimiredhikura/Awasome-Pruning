@@ -1,8 +1,8 @@
-# Awasome-Pruning  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awasome-Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Some major research papers in NEURAL NETWORK PRUNING with CODE.
+Some Major Research Papers in NEURAL NETWORK PRUNING with Implementation Code. Inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
 
-| Year   | Venue | Title | Code | Other |
+| Year   | Venue | Title | Code | Note |
 |:------ |:------ |:-------|:-------|:----|
 | 2022   | ICLR  | [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO) | [PyTorch](https://github.com/choH/lottery_regulated_grouped_kernel_pruning) | [Summary](doc/LTH.md) |
 | 2022   | ICLR  | [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l) | [PyTorch](https://github.com/yueb17/DLTH) | - |
