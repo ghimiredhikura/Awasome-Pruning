@@ -1,9 +1,15 @@
 # Awasome-Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Popular Research Papers & Resources in Neural Network Pruning. This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
+### Awasone Research Papers and Resources in Neural Network Pruning  
 
-Type: U --> Unstructured/Weight Pruning, S --> Structured/Filter/Channel Pruning.
-Code: A --> Official/Author Implementation, O --> Unofficial/3rd Party Implementation
+#### This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
+
+| Notation  | Explanation | 
+|:----------|:----------- |
+|   U       |Unstructured, Weight Pruning |
+|   S       |Structured, Filter/Channel Pruning |
+|   A       |Official/Author Implementation |  
+|   O       |Unofficial/3rd Party Implementation |  
 
 | Year   | Venue | Title | Type | Code |
 |:------ |:------ |:-------|:-------|:----|
