@@ -1,0 +1,1 @@
+[Paperswithcode (O)](https://paperswithcode.com/paper/pruning-filters-for-efficient-convnets), [PyTorch (O)](https://github.com/tyui592/Pruning_filters_for_efficient_convnets)
