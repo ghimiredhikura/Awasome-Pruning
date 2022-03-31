@@ -23,6 +23,6 @@
 
 ### Other
 
-| Title | Type | Code |
-|:------ |:------: |:-----:|
-| Toolbox: Pruning channels for model acceleration | `S/U` | [PyTorch](https://github.com/VainF/Torch-Pruning) |
+|Year |Venue | Title | Type | Code |
+|:----:|:---:|:------|:----:|:----:|
+| | | Toolbox: Pruning channels for model acceleration | `S/U` | [PyTorch[A] ](https://github.com/VainF/Torch-Pruning) |
