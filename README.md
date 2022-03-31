@@ -7,7 +7,7 @@
 |   `U`       |*Unstructured, Weight Pruning* |
 |   `S`       |*Structured, Filter/Channel Pruning* |
 |   `A`       |*Official/Author Implementation* |  
-|   `O`       |*Unofficial/3rd Party Implementation* |  
+|   `3rd Party`|*Unofficial/3rd Party Implementation* |  
 
 | Year   | Venue | Title | Type | Code |
 |:------|:-----|:------|:----|:----|
@@ -18,7 +18,7 @@
 | `2019`   | `CVPR` | [Filter Pruning via Geometric Median for Deep Convolutional Neural Networks Acceleration](https://openaccess.thecvf.com/content_CVPR_2019/html/He_Filter_Pruning_via_Geometric_Median_for_Deep_Convolutional_Neural_Networks_CVPR_2019_paper.html) | `S` |[PyTorch (A) ](https://github.com/he-y/filter-pruning-geometric-median) | 
 | `2018`   | `IJCAI` | [Soft Filter Pruning for Accelerating Deep Convolutional Neural Networks](https://www.ijcai.org/proceedings/2018/0309.pdf) | `S` | [PyTorch (A)](https://github.com/he-y/soft-filter-pruning) | 
 | `2018`   | `ICIP` | [Online Filter Clustering and Pruning for Efficient Convnets](https://ieeexplore.ieee.org/abstract/document/8451123) | `S` |  |
-| `2017`   | `ICLR` | [Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg) | `S` | [PyTorch (O)](doc/PFEC.md) |
+| `2017`   | `ICLR` | [Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg) | `S` | [PyTorch (3rd Party)](doc/PFEC.md) |
 
 
 ### Other
