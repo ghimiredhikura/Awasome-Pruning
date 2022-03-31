@@ -7,9 +7,9 @@
 |   `U`       |*Unstructured, Weight Pruning* |
 |   `S`       |*Structured, Filter/Channel Pruning* |
 |   `A`       |*Official/Author Implementation* |  
-|   `3rd Party`|*Unofficial/3rd Party Implementation* |  
+|   `O`       |*Unofficial/3rd Party Implementation* |  
 
-| Year   | Venue | Title | T | Code |
+| Year   | Venue | Title | Type | Code |
 |:------:|:-----:|:------|:----:|:----:|
 | `2022`   | `ICLR`  | [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO) | `S` | [PyTorch[A]](https://github.com/choH/lottery_regulated_grouped_kernel_pruning) | 
 | `2022`   | `ICLR`  | [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l) | `U` |[PyTorch[A]](https://github.com/yueb17/DLTH) | 
