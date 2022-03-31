@@ -10,7 +10,7 @@
 |   `O`       |*Unofficial/3rd Party Implementation* |  
 
 | Year   | Venue | Title | Type | Code |
-|:------:|:-----:|:-------|:-------:|:------:|
+|:------:|:-----:|:-------|:-------:|:----:|
 | `2022`   | `ICLR`  | [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO) | `S` | [PyTorch (A) ](https://github.com/choH/lottery_regulated_grouped_kernel_pruning) | 
 | `2022`   | `ICLR`  | [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l) | `U` |[PyTorch (A) ](https://github.com/yueb17/DLTH) | 
 | `2020`   | `MLSys`  | [Shrinkbench: What is the State of Neural Network Pruning?](https://arxiv.org/abs/2003.03033) | | [PyTorch (A) ](https://github.com/JJGO/shrinkbench) |
@@ -24,6 +24,6 @@
 ### Other
 
 | Title | Type | Code |
-|:------ |:------: |:------:|
+|:------ |:------: |:-----:|
 | Toolbox: Pruning channels for model acceleration | `S/U` | [PyTorch](https://github.com/VainF/Torch-Pruning) |
 | [Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg) | `S` | [PyTorch (O)](https://github.com/tyui592/Pruning_filters_for_efficient_convnets)|
