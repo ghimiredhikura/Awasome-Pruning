@@ -28,7 +28,7 @@
                         
 | Year  | Journal | Title | Type | Code |
 |:------:|:-----:|:------|:----:|:----:|
-| `2022`   | `Neural Networks` | [HRel: Filter pruning based on High Relevance between activation maps and class labels](https://www.sciencedirect.com/science/article/pii/S0893608021004962) | `S` | [PyTorch[A]*](https://github.com/sarvanichinthapalli/HRel) | 
+| `2022`   | [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | [HRel: Filter pruning based on High Relevance between activation maps and class labels](https://www.sciencedirect.com/science/article/pii/S0893608021004962) | `S` | [PyTorch[A]*](https://github.com/sarvanichinthapalli/HRel) | 
 
 ### Other
 
