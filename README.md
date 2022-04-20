@@ -13,6 +13,8 @@
 
 | Year   | Venue | Title | Type | Code |
 |:------:|:-----:|:------|:----:|:----:|
+| `2022`   | `ICLR`  | [Learning Pruning-Friendly Networks via Frank-Wolfe: One-Shot, Any-Sparsity, And No Retraining](https://openreview.net/forum?id=O1DEtITim__) | `U` | [PyTorch[A]](https://github.com/VITA-Group/SFW-Once-for-All-Pruning) |
+| `2022`   | `ICLR`  | [SOSP: Efficiently Capturing Global Correlations by Second-Order Structured Pruning ](https://openreview.net/forum?id=t5EmXZ3ZLR) | `S` |  |
 | `2022`   | `ICLR`  | [Revisit Kernel Pruning with Lottery Regulated Grouped Convolutions](https://openreview.net/forum?id=LdEhiMG9WLO) | `S` | [PyTorch[A]](https://github.com/choH/lottery_regulated_grouped_kernel_pruning) | 
 | `2022`   | `ICLR`  | [Dual Lottery Ticket Hypothesis](https://openreview.net/forum?id=fOsN52jn25l) | `U` |[PyTorch[A]](https://github.com/yueb17/DLTH) | 
 | `2020`   | `MLSys`  | [Shrinkbench: What is the State of Neural Network Pruning?](https://arxiv.org/abs/2003.03033) | | [PyTorch[A]](https://github.com/JJGO/shrinkbench) |
@@ -40,3 +42,4 @@
 |:----:|:---:|:------|:----:|:----:|
 | | | Toolbox: Pruning channels for model acceleration | `S/U` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
 | | | Toolbox: PyTorchViz | | [PyTorch[A] ](https://github.com/szagoruyko/pytorchviz) |
+| | | [Simplify: A Python library for optimizing pruned neural networks](https://www.sciencedirect.com/science/article/pii/S2352711021001576) | | [PyTorch[A] ](https://github.com/EIDOSlab/simplify) |
