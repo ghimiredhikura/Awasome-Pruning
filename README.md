@@ -28,9 +28,11 @@
 
 
 ## Journal 
-                        
+
 | Year  | Journal | Title | Type | Code |
 |:------:|:-----:|:------|:----:|:----:|
+
+| `2022`   | [Computational Intelligence and Neuroscience](https://www.hindawi.com/journals/cin/) | [Differentiable Network Pruning via Polarization of Probabilistic Channelwise Soft Masks](https://www.hindawi.com/journals/cin/2022/7775419/) | `S` |  | 
 | `2022`   | [Journal of Systems Architecture](https://www.sciencedirect.com/journal/neural-networks) | [Optimizing deep neural networks on intelligent edge accelerators via flexible-rate filter pruning](https://www.sciencedirect.com/science/article/pii/S1383762122000303) | `S` | | 
 | `2022`   | [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | [HRel: Filter pruning based on High Relevance between activation maps and class labels](https://www.sciencedirect.com/science/article/pii/S0893608021004962) | `S` | [PyTorch[A]*](https://github.com/sarvanichinthapalli/HRel) | 
 | `2022`   | [Sensors](https://www.mdpi.com/journal/sensors) | [Filter Pruning via Measuring Feature Map Information](https://www.mdpi.com/1424-8220/21/19/6601) | `S` |  | 
@@ -43,4 +45,5 @@
 |:----:|:---:|:------|:----:|:----:|
 | | | Toolbox: Pruning channels for model acceleration | `S/U` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
 | | | Toolbox: PyTorchViz | | [PyTorch[A] ](https://github.com/szagoruyko/pytorchviz) |
-| | | [Simplify: A Python library for optimizing pruned neural networks](https://www.sciencedirect.com/science/article/pii/S2352711021001576) | | [PyTorch[A] ](https://github.com/EIDOSlab/simplify) |
+| | | [Simplify: A Python library for optimizing pruned neural networks](https://www.sciencedirect.com/science/article/pii/S2352711021001576) | | [PyTorch[A] ](https://github.com/
+EIDOSlab/simplify) |
