@@ -31,7 +31,6 @@
 
 | Year  | Journal | Title | Type | Code |
 |:------:|:-----:|:------|:----:|:----:|
-
 | `2022`   | [Computational Intelligence and Neuroscience](https://www.hindawi.com/journals/cin/) | [Differentiable Network Pruning via Polarization of Probabilistic Channelwise Soft Masks](https://www.hindawi.com/journals/cin/2022/7775419/) | `S` |  | 
 | `2022`   | [Journal of Systems Architecture](https://www.sciencedirect.com/journal/neural-networks) | [Optimizing deep neural networks on intelligent edge accelerators via flexible-rate filter pruning](https://www.sciencedirect.com/science/article/pii/S1383762122000303) | `S` | | 
 | `2022`   | [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | [HRel: Filter pruning based on High Relevance between activation maps and class labels](https://www.sciencedirect.com/science/article/pii/S0893608021004962) | `S` | [PyTorch[A]*](https://github.com/sarvanichinthapalli/HRel) | 
