@@ -41,9 +41,8 @@
 
 ### Other
 
-|Year |Venue | Title | Type | Code |
+|Year | Venue | Title | Type | Code |
 |:----:|:---:|:------|:----:|:----:|
-| | | Toolbox: Pruning channels for model acceleration | `S/U` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
-| | | Toolbox: PyTorchViz | | [PyTorch[A] ](https://github.com/szagoruyko/pytorchviz) |
-| | | [Simplify: A Python library for optimizing pruned neural networks](https://www.sciencedirect.com/science/article/pii/S2352711021001576) | | [PyTorch[A] ](https://github.com/
-EIDOSlab/simplify) |
+|`2022` | [SoftwareX](https://www.sciencedirect.com/journal/softwarex) | [Simplify: A Python library for optimizing pruned neural networks](https://www.sciencedirect.com/science/article/pii/S2352711021001576) | | [PyTorch[A]](https://github.com/EIDOSlab/simplify) |
+|`2021` | [github.com](https://github.com/VainF/Torch-Pruning) | Toolbox: Pruning channels for model acceleration | `S/U` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
+|`2021` | [github.com](https://github.com/szagoruyko/pytorchviz) | Toolbox: PyTorchViz [A small package to create visualizations of PyTorch execution graphs] | | [PyTorch[A]](https://github.com/szagoruyko/pytorchviz) |
