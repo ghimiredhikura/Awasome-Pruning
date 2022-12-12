@@ -3,7 +3,7 @@
 ### Awasome Research Papers and other Resources in Neural Network Pruning. This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
 
 | Notation  | Explanation | 
-|:----------|:----------- |
+|:----------:|:----------- |
 |   `U`       |*Unstructured, Weight Pruning* |
 |   `S`       |*Structured, Filter/Channel Pruning* |
 |   `A`       |*Official/Author Implementation* |  
@@ -11,7 +11,7 @@
 
 ## Conference
 | Year   | Venue | Title | Type | Code |
-|:------:|:-----:|:------|:----:|:----:|
+|:------:|:-----|:------|:----:|:----:|
 | `2022`   | `CVPR`  | [Interspace Pruning: Using Adaptive Filter Representations To Improve Training of Sparse CNNs](https://openaccess.thecvf.com/content/CVPR2022/html/Wimmer_Interspace_Pruning_Using_Adaptive_Filter_Representations_To_Improve_Training_of_CVPR_2022_paper.html) | `U` | |
 | `2022`   | `CVPR`  | [Revisiting Random Channel Pruning for Neural Network Compression](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Revisiting_Random_Channel_Pruning_for_Neural_Network_Compression_CVPR_2022_paper.html) | `S` | [PyTorch[A]](https://github.com/ofsoundof/random_channel_pruning) |
 | `2022`   | `CVPR`  | [Fire Together Wire Together: A Dynamic Pruning Approach With Self-Supervised Mask Prediction](https://openaccess.thecvf.com/content/CVPR2022/html/Elkerdawy_Fire_Together_Wire_Together_A_Dynamic_Pruning_Approach_With_Self-Supervised_CVPR_2022_paper.html) | `S` | |
@@ -46,7 +46,7 @@
 ## Journal 
 
 | Year  | Journal | Title | Type | Code |
-|:------:|:-----:|:------|:----:|:----:|
+|:------:|:-----|:------|:----:|:----:|
 | `2022`   | [IEEE Trans. PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | [1xN Pattern for Pruning Convolutional Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9847369) | `S` | [PyTorch[A]](https://github.com/lmbxmu/1xN) |
 | `2022`   | [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) | [Automated Filter Pruning Based on High-Dimensional Bayesian Optimization](https://ieeexplore.ieee.org/document/9718082) | `S` |  | 
 | `2022` | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Filter Pruning by Switching to Neighboring CNNs With Good Attribute](https://ieeexplore.ieee.org/document/9716788) | `S` |  |
@@ -63,7 +63,8 @@
 ### Other
 
 |Year | Venue | Title | Type | Code |
-|:----:|:---:|:------|:----:|:----:|
+|:----:|:---|:------|:----:|:----:|
+|`2022` | [FasterAI](https://nathanhubens.github.io/fasterai/) | [FasterAI: Prune and Distill your models with FastAI and PyTorch](https://nathanhubens.github.io/fasterai/) | `U` | [PyTorch[A]](https://github.com/nathanhubens/fasterai) |
 |`2022` | [SoftwareX](https://www.sciencedirect.com/journal/softwarex) | [Simplify: A Python library for optimizing pruned neural networks](https://www.sciencedirect.com/science/article/pii/S2352711021001576) | | [PyTorch[A]](https://github.com/EIDOSlab/simplify) |
 |`2021` | [github.com](https://github.com/VainF/Torch-Pruning) | Toolbox: Structural Pruning for Model Acceleration | `S` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
 |`2021` | [github.com](https://github.com/szagoruyko/pytorchviz) | Toolbox: PyTorchViz [A small package to create visualizations of PyTorch execution graphs] | | [PyTorch[A]](https://github.com/szagoruyko/pytorchviz) |
