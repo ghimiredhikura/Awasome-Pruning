@@ -1,4 +1,4 @@
-# Awasome-Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awasome-CNNPruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 Awasome Research Papers and other Resources in Neural Network Pruning. This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
 
