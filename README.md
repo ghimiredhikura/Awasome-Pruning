@@ -13,10 +13,15 @@ Awasome Research Papers and other Resources in Convolution Neural Network Prunin
 
 | Year   | Venue | Title | Type | Code |
 |:------:|:-----|:------|:-----:|:----:|
+| `2023`   | `ICLR`  | [How I Learned to Stop Worrying and Love Retraining](https://openreview.net/forum?id=_nF5imFKQI) | `U` | [PyTorch[A]](https://openreview.net/attachment?id=_nF5imFKQI&name=supplementary_material) |
+| `2023`   | `ICLR`  | [Revisiting Pruning at Initialization Through the Lens of Ramanujan Graphs](https://openreview.net/forum?id=uVcDssQff_) | `U` | *Code will be available soon* |
+| `2023`   | `ICLR`  | [Unmasking the Lottery Ticket Hypothesis: What's Encoded in a Winning Ticket's Mask?](https://openreview.net/forum?id=xSsW2Am-ukZ) | `U` |  |
+| `2023`   | `ICLR`  | [NTK-SAP: Improving neural network pruning by aligning training dynamics](https://openreview.net/forum?id=-5EWhW_4qWP) | `U` |  |
+| `2023`   | `ICLR`  | [DFPC: Data flow driven pruning of coupled channels without data](https://openreview.net/forum?id=mhnHqRqcjYU) | `S` | [PyTorch[A]](https://drive.google.com/drive/folders/18eRYzWnB_6Qq0cYiSzvyOgicqn50g3-m) |
+| `2023`   | `ICLR`  | [Pruning Deep Neural Networks from a Sparsity Perspective](https://openreview.net/forum?id=i-DleYh34BM) | `U` | [PyTorch[A]](https://openreview.net/attachment?id=i-DleYh34BM&name=supplementary_material) |
+| `2023`   | `ICLR`  | [A Unified Framework of Soft Threshold Pruning](https://openreview.net/forum?id=cCFqcrq0d8) | `U` | [PyTorch[A]](https://openreview.net/attachment?id=cCFqcrq0d8&name=supplementary_material) |
 | `2023`   | `WACV`  | [Calibrating Deep Neural Networks Using Explicit Regularisation and Dynamic Data Pruning](https://openaccess.thecvf.com/content/WACV2023/html/Patra_Calibrating_Deep_Neural_Networks_Using_Explicit_Regularisation_and_Dynamic_Data_WACV_2023_paper.html) | `S` | |
 | `2023`   | `WACV`  | [Attend Who Is Weak: Pruning-Assisted Medical Image Localization Under Sophisticated and Implicit Imbalances](https://openaccess.thecvf.com/content/WACV2023/html/Jaiswal_Attend_Who_Is_Weak_Pruning-Assisted_Medical_Image_Localization_Under_Sophisticated_WACV_2023_paper.html) | `S` | |
-| `2023`   | `ICLR`  | [How I Learned to Stop Worrying and Love Retraining](https://openreview.net/forum?id=_nF5imFKQI) | `U` | [PyTorch[A]](https://openreview.net/attachment?id=_nF5imFKQI&name=supplementary_material) |
-| `2023`   | `ICLR`  | [Revisiting Pruning at Initialization Through the Lens of Ramanujan Graphs](https://openreview.net/forum?id=uVcDssQff_) | `U` |  |
 | `2022`   | `CVPR`  | [Interspace Pruning: Using Adaptive Filter Representations To Improve Training of Sparse CNNs](https://openaccess.thecvf.com/content/CVPR2022/html/Wimmer_Interspace_Pruning_Using_Adaptive_Filter_Representations_To_Improve_Training_of_CVPR_2022_paper.html) | `U` | |
 | `2022`   | `CVPR`  | [Revisiting Random Channel Pruning for Neural Network Compression](https://openaccess.thecvf.com/content/CVPR2022/html/Li_Revisiting_Random_Channel_Pruning_for_Neural_Network_Compression_CVPR_2022_paper.html) | `S` | [PyTorch[A]](https://github.com/ofsoundof/random_channel_pruning) |
 | `2022`   | `CVPR`  | [Fire Together Wire Together: A Dynamic Pruning Approach With Self-Supervised Mask Prediction](https://openaccess.thecvf.com/content/CVPR2022/html/Elkerdawy_Fire_Together_Wire_Together_A_Dynamic_Pruning_Approach_With_Self-Supervised_CVPR_2022_paper.html) | `S` | |
