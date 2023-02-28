@@ -82,6 +82,8 @@ Awasome Research Papers and other Resources in Convolution Neural Network Prunin
 | `2017`   | `ICLR`  | [Pruning Filters for Efficient ConvNets](https://openreview.net/forum?id=rJqFGTslg) | `S` | [PyTorch[O]](doc/PFEC.md) |
 | `2017`   | `ICCV`  | [Channel Pruning for Accelerating Very Deep Neural Networks](https://openaccess.thecvf.com/content_iccv_2017/html/He_Channel_Pruning_for_ICCV_2017_paper.html) | `S` | [PyTorch[A]](https://github.com/yihui-he/channel-pruning) |
 | `2017`   | `ICCV`  | [ThiNet: A Filter Level Pruning Method for Deep Neural Network Compression](https://openaccess.thecvf.com/content_iccv_2017/html/Luo_ThiNet_A_Filter_ICCV_2017_paper.html) | `S` | [Caffe[A]](https://github.com/Roll920/ThiNet) |
+| `2017`   | `ICCV`  | [Learning Efficient Convolutional Networks Through Network Slimming](https://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) | `S` | [PyTorch[A]](https://github.com/Eric-mingjie/network-slimming) |
+
 
 ## Journal 
 
