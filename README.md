@@ -1,6 +1,6 @@
 # Awasome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awasome Resources in Convolution Neural Network Pruning. This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
+Awasome Resources in Deep Neural Network Pruning. This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
 
 | Symbol | `U` | `S` | `A`| `O`| 
 |:---------:|:-----------:|:-----------:|:-----------:|:-----------:|
