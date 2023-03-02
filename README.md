@@ -2,12 +2,9 @@
 
 Awasome Research Papers and other Resources in Convolution Neural Network Pruning. This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
 
-| Notation  | Explanation | 
-|:---------:|:----------- |
-|   `U`     |*Unstructured, Weight Pruning* |
-|   `S`     |*Structured, Filter/Channel Pruning* |
-|   `A`     |*Official/Author Implementation* |  
-|   `O`     |*Unofficial/3rd Party Implementation* |  
+| Symbol | `U` | `S` | `A`| `O`| 
+|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|
+| **Details** |Unstructured or Weight Pruning|Structured or Filter or Channel Pruning|Official or Author Implementation|Unofficial or 3rd Party Implementation|  
 
 ## Conference
 
