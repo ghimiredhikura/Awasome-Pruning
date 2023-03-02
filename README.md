@@ -109,7 +109,7 @@ Awasome Resources in Deep Neural Network Pruning. This collection is prepared in
 ## Other 
 | Year  | Title | Code |
 |:------:|:-----|:------|
-| `2023` | [Why is the State of Neural Network Pruning so Confusing? On the Fairness, Comparison Setup, and Trainability in Network Pruning](https://arxiv.org/abs/2301.05219) | [PyTorch (soon...)](https://github.com/mingsun-tse/why-the-state-of-pruning-so-confusing) | 
+| `2023` | [Why is the State of Neural Network Pruning so Confusing? On the Fairness, Comparison Setup, and Trainability in Network Pruning](https://arxiv.org/abs/2301.05219) | [PyTorch[A] (soon...)](https://github.com/mingsun-tse/why-the-state-of-pruning-so-confusing) | 
 | `2023` | [Ten Lessons We Have Learned in the New "Sparseland": A Short Handbook for Sparse Neural Network Researchers](https://arxiv.org/abs/2302.02596) |  | 
 
 ### Pruning Software/Toolbox
