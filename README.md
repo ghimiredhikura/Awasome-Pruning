@@ -110,6 +110,16 @@ Awasome Resources in Deep Neural Network Pruning. This collection is prepared in
 | `2020`   | [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) | [Filter Pruning Without Damaging Networks Capacity](https://ieeexplore.ieee.org/document/9091183) | `S` |  | 
 | `2020`   | [Electronics](https://www.mdpi.com/journal/electronics) | [Pruning Convolutional Neural Networks with an Attention Mechanism for Remote Sensing Image Classification](https://www.mdpi.com/2079-9292/9/8/1209) | `S` |  | 
 
+## Survery Papers 
+| Year  | Venue | Title |
+|:------:|:-----:|:-----|
+| `2023` | `arVix` | [Structured Pruning for Deep Convolutional Neural Networks: A survey](https://arxiv.org/abs/2303.00566) | 
+| `2022` | `Electronics` | [A Survey on Efficient Convolutional Neural Networks and Hardware Acceleration](https://www.mdpi.com/2079-9292/11/6/945) | 
+| `2022` | [`I-SMAC`](https://i-smac.org/ismac2022/) | [A Survey on Filter Pruning Techniques for Optimization of Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/9987264/) |
+| `2021` | [`JMLR`](https://jmlr.csail.mit.edu/) | [Sparsity in Deep Learning: Pruning and growth for efficient inference and training in neural networks](https://www.jmlr.org/papers/volume22/21-0366/21-0366.pdf) |
+| `2021` | `Neurocomputing`| [Pruning and quantization for deep neural network acceleration: A survey](https://www.sciencedirect.com/science/article/pii/S0925231221010894) |
+| `2020` | `IEEE Access` | [Methods for Pruning Deep Neural Networks](https://ieeexplore.ieee.org/document/9795013/) | 
+
 ## Other 
 | Year  | Venue | Title | Code |
 |:------:|:-----:|:-----|:------:|
