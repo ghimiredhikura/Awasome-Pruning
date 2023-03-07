@@ -45,6 +45,7 @@ Awasome Resources in Deep Neural Network Pruning. This collection is prepared in
 | `2022`   | `ICIP`  | [Which Metrics For Network Pruning: Final Accuracy? or Accuracy Drop?](https://ieeexplore.ieee.org/document/9898051) | `S/U` | |
 | `2022`   | `ISMSI` | [Structured Pruning with Automatic Pruning Rate Derivation for Image Processing Neural Networks](https://dl.acm.org/doi/abs/10.1145/3533050.3533066) | `S` | |
 | `2021`   | `ICLR`  | [Network Pruning That Matters: A Case Study on Retraining Variants](https://openreview.net/forum?id=Cb54AMqHQFP) | `S` | [PyTorch[A]](https://github.com/lehduong/NPTM) |
+| `2021`   | `ICLR`  | [Layer-adaptive Sparsity for the Magnitude-based Pruning](https://openreview.net/forum?id=H6ATjJ0TKdf) | `S` | [PyTorch[A]](https://github.com/jaeho-lee/layer-adaptive-sparsity) |
 | `2021`   | `NIPS`  | [Only Train Once: A One-Shot Neural Network Training And Pruning Framework](https://openreview.net/forum?id=p5rMPjrcCZq) | `S` | [PyTorch[A]](https://github.com/tianyic/only_train_once) |
 | `2021`   | `CVPR`  | [NPAS: A Compiler-Aware Framework of Unified Network Pruning and Architecture Search for Beyond Real-Time Mobile Acceleration](https://openaccess.thecvf.com/content/CVPR2021/html/Li_NPAS_A_Compiler-Aware_Framework_of_Unified_Network_Pruning_and_Architecture_CVPR_2021_paper.html) | `S` | |
 | `2021`   | `CVPR`  | [Network Pruning via Performance Maximization](https://openaccess.thecvf.com/content/CVPR2021/html/Gao_Network_Pruning_via_Performance_Maximization_CVPR_2021_paper.html) | `S` | |
