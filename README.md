@@ -47,6 +47,7 @@ Awasome Resources in Deep Neural Network Pruning. This collection is prepared in
 | `2022`   | `ICIP`  | [Truncated Lottery Ticket for Deep Pruning](https://ieeexplore.ieee.org/document/9897767) | `U` | |
 | `2022`   | `ICIP`  | [Which Metrics For Network Pruning: Final Accuracy? or Accuracy Drop?](https://ieeexplore.ieee.org/document/9898051) | `S/U` | |
 | `2022`   | `ISMSI` | [Structured Pruning with Automatic Pruning Rate Derivation for Image Processing Neural Networks](https://dl.acm.org/doi/abs/10.1145/3533050.3533066) | `S` | |
+| `2021`   | `ICLR`  | [Neural Pruning via Growing Regularization](https://openreview.net/forum?id=o966_Is_nPA) | `S` | [PyTorch[A]](https://github.com/mingsun-tse/regularization-pruning) |
 | `2021`   | `ICLR`  | [Network Pruning That Matters: A Case Study on Retraining Variants](https://openreview.net/forum?id=Cb54AMqHQFP) | `S` | [PyTorch[A]](https://github.com/lehduong/NPTM) |
 | `2021`   | `ICLR`  | [Layer-adaptive Sparsity for the Magnitude-based Pruning](https://openreview.net/forum?id=H6ATjJ0TKdf) | `U` | [PyTorch[A]](https://github.com/jaeho-lee/layer-adaptive-sparsity) |
 | `2021`   | `NIPS`  | [Only Train Once: A One-Shot Neural Network Training And Pruning Framework](https://openreview.net/forum?id=p5rMPjrcCZq) | `S` | [PyTorch[A]](https://github.com/tianyic/only_train_once) |
