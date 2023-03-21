@@ -133,7 +133,7 @@ Awasome Resources in Deep Neural Network Pruning. This collection is prepared in
 | `2022` | `ICML` | **Tutorial** -- [Sparsity in Deep Learning: Pruning and growth for efficient inference and training](https://icml.cc/virtual/2021/tutorial/10845) |  |  
 
 
-### Pruning Software/Toolbox
+## Pruning Software/Toolbox
 |Year | Title | Type | Code |
 |:----:|:------|:----:|:----:|
 |`2022` | [FasterAI: Prune and Distill your models with FastAI and PyTorch](https://nathanhubens.github.io/fasterai/) | `U` | [PyTorch[A]](https://github.com/nathanhubens/fasterai) |
