@@ -134,7 +134,6 @@ Awasome Resources in Deep Neural Network Pruning. This collection is prepared in
 
 
 ### Pruning Software/Toolbox
-
 |Year | Title | Type | Code |
 |:----:|:------|:----:|:----:|
 |`2022` | [FasterAI: Prune and Distill your models with FastAI and PyTorch](https://nathanhubens.github.io/fasterai/) | `U` | [PyTorch[A]](https://github.com/nathanhubens/fasterai) |
