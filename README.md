@@ -10,6 +10,7 @@ Awasome Resources in Deep Neural Network Pruning. This collection is prepared in
 
 | Year   | Venue | Title | Type | Code |
 |:------:|:-----|:------|:-----:|:----:|
+| `2023`   | `ICLR`  | [OTOv2: Automatic, Generic, User-Friendly](https://openreview.net/forum?id=7ynoX1ojPMt) | `S` | [PyTorch[A]](https://github.com/tianyic/only_train_once) |
 | `2023`   | `ICLR`  | [How I Learned to Stop Worrying and Love Retraining](https://openreview.net/forum?id=_nF5imFKQI) | `U` | [PyTorch[A]](https://github.com/ZIB-IOL/BIMP) |
 | `2023`   | `ICLR`  | [Token Merging: Your ViT But Faster ](https://openreview.net/forum?id=JroZRaRw7Eu) | `U/S` | [PyTorch[A]](https://github.com/facebookresearch/ToMe) |
 | `2023`   | `ICLR`  | [Revisiting Pruning at Initialization Through the Lens of Ramanujan Graphs](https://openreview.net/forum?id=uVcDssQff_) | `U` | [PyTorch[A]](https://github.com/VITA-Group/ramanujan-on-pai) (soon...) |
