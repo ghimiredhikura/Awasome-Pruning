@@ -15,6 +15,7 @@ Awasome Resources in Deep Neural Network Pruning. This collection is prepared in
 | `2023`   | `CVPR`  | [Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers](https://arxiv.org/abs/2304.10716) | `S` | [PyTorch[A]](https://github.com/megvii-research/TPS-CVPR2023) |
 | `2023`   | `CVPR`  | [Global Vision Transformer Pruning with Hessian-Aware Saliency](https://arxiv.org/abs/2110.04869) | `S` |  |
 | `2023`   | `CVPR`  | [CP3: Channel Pruning Plug-in for Point-based Networks](https://arxiv.org/abs/2303.13097) | `S` |  |
+| `2023`   | `ICLR`  | [JaxPruner: A concise library for sparsity research](https://arxiv.org/abs/2304.14082) | `U/S` | [PyTorch[A]](https://github.com/google-research/jaxpruner) |
 | `2023`   | `ICLR`  | [OTOv2: Automatic, Generic, User-Friendly](https://openreview.net/forum?id=7ynoX1ojPMt) | `S` | [PyTorch[A]](https://github.com/tianyic/only_train_once) |
 | `2023`   | `ICLR`  | [How I Learned to Stop Worrying and Love Retraining](https://openreview.net/forum?id=_nF5imFKQI) | `U` | [PyTorch[A]](https://github.com/ZIB-IOL/BIMP) |
 | `2023`   | `ICLR`  | [Token Merging: Your ViT But Faster ](https://openreview.net/forum?id=JroZRaRw7Eu) | `U/S` | [PyTorch[A]](https://github.com/facebookresearch/ToMe) |
@@ -144,6 +145,8 @@ Awasome Resources in Deep Neural Network Pruning. This collection is prepared in
 ## Pruning Software/Toolbox
 |Year | Title | Type | Code |
 |:----:|:------|:----:|:----:|
+|`2023` | [JaxPruner: JaxPruner: A concise library for sparsity research](https://arxiv.org/abs/2304.14082) | `U/S` | [PyTorch[A]](https://github.com/google-research/jaxpruner) |
+|`2023` | [TorchPruning: DepGraph: Towards Any Structural Pruning](https://arxiv.org/abs/2301.12900) | `U/S` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
 |`2022` | [FasterAI: Prune and Distill your models with FastAI and PyTorch](https://nathanhubens.github.io/fasterai/) | `U` | [PyTorch[A]](https://github.com/nathanhubens/fasterai) |
 |`2022` | [Simplify: A Python library for optimizing pruned neural networks](https://www.sciencedirect.com/science/article/pii/S2352711021001576) | | [PyTorch[A]](https://github.com/EIDOSlab/simplify) |
 |`2021` | [DepGraph: Towards Any Structural Pruning](https://arxiv.org/abs/2301.12900) | `S` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
