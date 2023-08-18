@@ -4,21 +4,24 @@ Awesome Resources in Deep Neural Network Pruning. This collection is prepared in
 
 > [Note: You are welcome to create pool requests and add more interesting papers.]
 
-| Symbol | `U` | `S` | `A`| `O`| 
-|:---------:|:-----------:|:-----------:|:-----------:|:-----------:|
-| **Details** |Unstructured or Weight Pruning|Structured or Filter or Channel Pruning|Official or Author Implementation|Unofficial or 3rd Party Implementation|  
+| Section | Year of Publication|
+|:---------| :--- |
+| **[Conference Publications](#conference-publications)** | [`2023`](#2023)  [`2022`](#2022) [`2021`](#2021)  [`2020`](#2020) [`2019`](#2019) [`2018`](#2018) [`2017`](#2017)|
+| **[Journal Publications](#journal-publications)** | [`2023`](#2023-1)  [`2022`](#2022-1) [`2021`](#2021-1)  [`2020`](#2020-1) |
+| **[Survey Articles](#survey-articles)** | [`2020~2023`](#survey-articles) |
+| **[Other Publications](#other-publications)** | [`2022~2023`](#other-publications) |
+| **[Pruning Software and Toolbox](#pruning-software-and-toolbox)** | [`2019~2023`](#pruning-software-and-toolbox) |
 
-| Sections |  
-|:---------|
-| [Conference Articles](#conference-articles) |
-| [Journal Articles](#journal-articles) |
-| [Survey Articles](#survey-articles) |
-| [Other](#other) |
-| [Pruning Software and Toolbox](#pruning-software-and-toolbox) |
+| Symbol | Meaning |
+|:---------:|:-----------|
+| `U` |Unstructured or Weight Pruning| 
+| `S` |Structured or Filter or Channel Pruning| 
+| `A` |Official or Author Implementation| 
+| `O` |Unofficial or 3rd Party Implementation| 
 
-## Conference Articles
+## Conference Publications
 
-### <h3 align="center">2023</h3>
+**<h3 align="center">2023</h3>**
 
 | Venue | Title | Type | Code |
 |:-----|:------|:-----:|:----:|
@@ -42,7 +45,7 @@ Awesome Resources in Deep Neural Network Pruning. This collection is prepared in
 | `WACV`  | [Attend Who Is Weak: Pruning-Assisted Medical Image Localization Under Sophisticated and Implicit Imbalances](https://openaccess.thecvf.com/content/WACV2023/html/Jaiswal_Attend_Who_Is_Weak_Pruning-Assisted_Medical_Image_Localization_Under_Sophisticated_WACV_2023_paper.html) | `S` | |
 | [`ICASSP`](https://2023.ieeeicassp.org/important-dates/)  | [WHC: Weighted Hybrid Criterion for Filter Pruning on Convolutional Neural Networks](https://arxiv.org/abs/2302.08185) | `S` | [PyTorch[A]](https://github.com/ShaowuChen/WHC) |
 
-### <h3 align="center">2022</h3>
+<h3 align="center">2022</h3>
 
 | Venue | Title | Type | Code |
 |:-----|:------|:-----:|:----:|
@@ -140,7 +143,7 @@ Awesome Resources in Deep Neural Network Pruning. This collection is prepared in
 | `ICCV`  | [Learning Efficient Convolutional Networks Through Network Slimming](https://openaccess.thecvf.com/content_iccv_2017/html/Liu_Learning_Efficient_Convolutional_ICCV_2017_paper.html) | `S` | [PyTorch[A]](https://github.com/Eric-mingjie/network-slimming) |
 
 
-## Journal Articles 
+## Journal Publications 
 
 <h3 align="center">2023</h3>
 
@@ -193,7 +196,7 @@ Awesome Resources in Deep Neural Network Pruning. This collection is prepared in
 | [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) | [Filter Pruning Without Damaging Networks Capacity](https://ieeexplore.ieee.org/document/9091183) | `S` |  | 
 | [Electronics](https://www.mdpi.com/journal/electronics) | [Pruning Convolutional Neural Networks with an Attention Mechanism for Remote Sensing Image Classification](https://www.mdpi.com/2079-9292/9/8/1209) | `S` |  | 
 
-## Survey Articles 
+## Survey Articles
 | Year  | Venue | Title |
 |:------:|:-----:|:-----|
 | `2023` | [`Artif. Intell. Rev.`](https://www.springer.com/journal/10462) | [Deep neural network pruning method based on sensitive layers and reinforcement learning](https://link.springer.com/article/10.1007/s10462-023-10566-5) | 
@@ -205,13 +208,12 @@ Awesome Resources in Deep Neural Network Pruning. This collection is prepared in
 | `2021` | [`Neurocomputing`](https://www.sciencedirect.com/journal/neurocomputing) | [Pruning and quantization for deep neural network acceleration: A survey](https://www.sciencedirect.com/science/article/pii/S0925231221010894) |
 | `2020` | [`IEEE Access`](https://ieeexplore.ieee.org/xpl/aboutJournal.jsp?punumber=6287639) | [Methods for Pruning Deep Neural Networks](https://ieeexplore.ieee.org/document/9795013/) | 
 
-## Other 
+## Other Publications
 | Year  | Venue | Title | Code |
 |:------:|:-----:|:-----|:------:|
 | `2023` | `arVix` | [Why is the State of Neural Network Pruning so Confusing? On the Fairness, Comparison Setup, and Trainability in Network Pruning](https://arxiv.org/abs/2301.05219) | [PyTorch[A]](https://github.com/mingsun-tse/why-the-state-of-pruning-so-confusing)(soon...) | 
 | `2023` | `arVix` |[Ten Lessons We Have Learned in the New "Sparseland": A Short Handbook for Sparse Neural Network Researchers](https://arxiv.org/abs/2302.02596) |  | 
 | `2022` | `ICML` | **Tutorial** -- [Sparsity in Deep Learning: Pruning and growth for efficient inference and training](https://icml.cc/virtual/2021/tutorial/10845) |  |  
-
 
 ## Pruning Software and Toolbox
 |Year | Title | Type | Code |
