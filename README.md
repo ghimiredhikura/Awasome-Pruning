@@ -30,6 +30,8 @@ Awesome resources in deep neural network pruning. This collection is prepared in
 | `CVPR`  | [Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers](https://arxiv.org/abs/2304.10716) | `S` | [PyTorch[A]](https://github.com/megvii-research/TPS-CVPR2023) |
 | `CVPR`  | [Global Vision Transformer Pruning with Hessian-Aware Saliency](https://arxiv.org/abs/2110.04869) | `S` |  |
 | `CVPR`  | [CP3: Channel Pruning Plug-in for Point-based Networks](https://arxiv.org/abs/2303.13097) | `S` |  |
+| `CVPR`  | [Training Debiased Subnetworks With Contrastive Weight Pruning](https://openaccess.thecvf.com/content/CVPR2023/html/Park_Training_Debiased_Subnetworks_With_Contrastive_Weight_Pruning_CVPR_2023_paper.html) | `U` | |
+| `CVPR`  | [Pruning Parameterization With Bi-Level Optimization for Efficient Semantic Segmentation on the Edge](https://openaccess.thecvf.com/content/CVPR2023/html/Yang_Pruning_Parameterization_With_Bi-Level_Optimization_for_Efficient_Semantic_Segmentation_on_CVPR_2023_paper.html) | `S` | |
 | `ICLR`  | [JaxPruner: A concise library for sparsity research](https://arxiv.org/abs/2304.14082) | `U/S` | [PyTorch[A]](https://github.com/google-research/jaxpruner) |
 | `ICLR`  | [OTOv2: Automatic, Generic, User-Friendly](https://openreview.net/forum?id=7ynoX1ojPMt) | `S` | [PyTorch[A]](https://github.com/tianyic/only_train_once) |
 | `ICLR`  | [How I Learned to Stop Worrying and Love Retraining](https://openreview.net/forum?id=_nF5imFKQI) | `U` | [PyTorch[A]](https://github.com/ZIB-IOL/BIMP) |
