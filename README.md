@@ -151,7 +151,6 @@ Awesome resources in deep neural network pruning. This collection is prepared in
 
 | Journal | Title | Type | Code |
 |:-----|:------|:----:|:----:|
-
 | [IEEE Internet Things J.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) | [SNPF: Sensitiveness Based Network Pruning Framework for Efficient Edge Computing](https://ieeexplore.ieee.org/document/10250769) | `S` | | 
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Block-Wise Partner Learning for Model Compression](https://ieeexplore.ieee.org/document/10237122) | `S` | [PyTorch[A]](https://github.com/zhangxin-xd/BPL)| 
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Hierarchical Threshold Pruning Based on Uniform Response Criterion](https://ieeexplore.ieee.org/document/10103912) | `S` | | 
@@ -224,7 +223,7 @@ Awesome resources in deep neural network pruning. This collection is prepared in
 ## Pruning Software and Toolbox
 |Year | Title | Type | Code |
 |:----:|:------|:----:|:----:|
-|`2023` | [TorchPruning: DepGraph: Towards Any Structural Pruning](https://arxiv.org/abs/2301.12900) | `U/S` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
+|`2023` | **[Torch-Pruning](https://arxiv.org/abs/2301.12900)** | `S` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
 |`2023` | [JaxPruner: JaxPruner: A concise library for sparsity research](https://arxiv.org/abs/2304.14082) | `U/S` | [PyTorch[A]](https://github.com/google-research/jaxpruner) |
 |`2022` | [FasterAI: Prune and Distill your models with FastAI and PyTorch](https://nathanhubens.github.io/fasterai/) | `U` | [PyTorch[A]](https://github.com/nathanhubens/fasterai) |
 |`2022` | [Simplify: A Python library for optimizing pruned neural networks](https://www.sciencedirect.com/science/article/pii/S2352711021001576) | | [PyTorch[A]](https://github.com/EIDOSlab/simplify) |
