@@ -151,7 +151,9 @@ Awesome resources in deep neural network pruning. This collection is prepared in
 
 | Journal | Title | Type | Code |
 |:-----|:------|:----:|:----:|
+
 | [IEEE Internet Things J.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) | [SNPF: Sensitiveness Based Network Pruning Framework for Efficient Edge Computing](https://ieeexplore.ieee.org/document/10250769) | `S` | | 
+| [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Block-Wise Partner Learning for Model Compression](https://ieeexplore.ieee.org/document/10237122) | `S` | [PyTorch[A]](https://github.com/zhangxin-xd/BPL)| 
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Hierarchical Threshold Pruning Based on Uniform Response Criterion](https://ieeexplore.ieee.org/document/10103912) | `S` | | 
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [CATRO: Channel Pruning via Class-Aware Trace Ratio Optimization](https://ieeexplore.ieee.org/document/10094002) | `S` | | 
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Adaptive Filter Pruning via Sensitivity Feedback](https://ieeexplore.ieee.org/document/10064249) | `S` | | 
@@ -159,6 +161,7 @@ Awesome resources in deep neural network pruning. This collection is prepared in
 | [IEEE Trans. PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | [Performance-aware Approximation of Global Channel Pruning for Multitask CNNs](https://arxiv.org/abs/2303.11923) | `S` | [PyTorch[A]](https://github.com/HankYe/PAGCP/tree/main) |
 | [IEEE Trans. PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | [Adaptive Search-and-Training for Robust and Efficient Network Pruning](https://ieeexplore.ieee.org/abstract/document/10052756) | `S` | |
 | [Image Vis. Comput.](https://www.sciencedirect.com/journal/image-and-vision-computing) | [Loss-aware automatic selection of structured pruning criteria for deep neural network acceleration](https://www.sciencedirect.com/science/article/pii/S0262885623001191) | `S` | [PyTorch[A]](https://github.com/ghimiredhikura/laasp) |
+| [Comput. Vis. Image Underst.](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) | [Feature independent Filter Pruning by Successive Layers analysis](https://www.sciencedirect.com/science/article/pii/S1077314223002084) | `S` |  |
 
 
 <h3 align="center">2022</h3>
