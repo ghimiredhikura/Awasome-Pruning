@@ -1,6 +1,6 @@
 # Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome resources in deep neural network pruning. This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning). 
+Awesome resources in deep neural network pruning. This collection is prepared and inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning). 
 
 > [Note: You are welcome to create pool requests and add more interesting papers.]
 
@@ -25,6 +25,13 @@ Awesome resources in deep neural network pruning. This collection is prepared in
 
 | Venue | Title | Type | Code |
 |:-----|:------|:-----:|:----:|
+| `ICCV`  | [Automatic Network Pruning via Hilbert-Schmidt Independence Criterion Lasso under Information Bottleneck Principle](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Automatic_Network_Pruning_via_Hilbert-Schmidt_Independence_Criterion_Lasso_under_Information_ICCV_2023_paper.html) | `S` | [PyTorch[A]](https://github.com/sunggo/APIB) |
+| `ICCV`  | [Unified Data-Free Compression: Pruning and Quantization without Fine-Tuning](https://openaccess.thecvf.com/content/ICCV2023/html/Bai_Unified_Data-Free_Compression_Pruning_and_Quantization_without_Fine-Tuning_ICCV_2023_paper.html) | `S` | [PyTorch[A]](https://github.com/Dtudy/UDFC) |
+| `ICCV`  | [Structural Alignment for Network Pruning through Partial Regularization](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Structural_Alignment_for_Network_Pruning_through_Partial_Regularization_ICCV_2023_paper.html) | `S` | |
+| `ICCV`  | [Differentiable Transportation Pruning](https://openaccess.thecvf.com/content/ICCV2023/html/Li_Differentiable_Transportation_Pruning_ICCV_2023_paper.html) | `S` | |
+| `ICCV`  | [Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_Dynamic_Token_Pruning_in_Plain_Vision_Transformers_for_Semantic_Segmentation_ICCV_2023_paper.html) | `S` | [PyTorch[A]](https://github.com/zbwxp/Dynamic-Token-Pruning) |
+| `ICCV`  | [Towards Fairness-aware Adversarial Network Pruning](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_Towards_Fairness-aware_Adversarial_Network_Pruning_ICCV_2023_paper.html) | `S` | |
+| `ICCV`  | [Efficient Joint Optimization of Layer-Adaptive Weight Pruning in Deep Neural Networks](https://openaccess.thecvf.com/content/ICCV2023/html/Xu_Efficient_Joint_Optimization_of_Layer-Adaptive_Weight_Pruning_in_Deep_Neural_ICCV_2023_paper.html) | `S` | [PyTorch[A]](https://github.com/Akimoto-Cris/RD_VIT_PRUNE) |
 | `CVPR`  | [DepGraph: Towards Any Structural Pruning](https://arxiv.org/abs/2301.12900) | `S` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
 | `CVPR`  | [X-Pruner: eXplainable Pruning for Vision Transformers](https://arxiv.org/abs/2303.04935) | `U/S` |  |
 | `CVPR`  | [Joint Token Pruning and Squeezing Towards More Aggressive Compression of Vision Transformers](https://arxiv.org/abs/2304.10716) | `S` | [PyTorch[A]](https://github.com/megvii-research/TPS-CVPR2023) |
@@ -161,7 +168,7 @@ Awesome resources in deep neural network pruning. This collection is prepared in
 | [IEEE Trans. PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | [Adaptive Search-and-Training for Robust and Efficient Network Pruning](https://ieeexplore.ieee.org/abstract/document/10052756) | `S` | |
 | [Image Vis. Comput.](https://www.sciencedirect.com/journal/image-and-vision-computing) | [Loss-aware automatic selection of structured pruning criteria for deep neural network acceleration](https://www.sciencedirect.com/science/article/pii/S0262885623001191) | `S` | [PyTorch[A]](https://github.com/ghimiredhikura/laasp) |
 | [Comput. Vis. Image Underst.](https://www.sciencedirect.com/journal/computer-vision-and-image-understanding) | [Feature independent Filter Pruning by Successive Layers analysis](https://www.sciencedirect.com/science/article/pii/S1077314223002084) | `S` |  |
-
+| [IEEE Access](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6287639) | [Differentiable Neural Architecture, Mixed Precision and Accelerator Co-Search](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10266308) | `S` |  |
 
 <h3 align="center">2022</h3>
 
