@@ -25,6 +25,8 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 
 | Venue | Title | Type | Code |
 |:-----|:------|:-----:|:----:|
+| `NIPS`  | [Diff-Pruning: Structural Pruning for Diffusion Models](https://arxiv.org/abs/2305.10924) | `S` | [PyTorch[A]](https://github.com/VainF/Diff-Pruning) |
+| `NIPS`  | [LLM-Pruner: On the Structural Pruning of Large Language Models](https://arxiv.org/abs/2305.11627) | `S` | [PyTorch[A]](https://github.com/horseee/LLM-Pruner) |
 | `ICCV`  | [Automatic Network Pruning via Hilbert-Schmidt Independence Criterion Lasso under Information Bottleneck Principle](https://openaccess.thecvf.com/content/ICCV2023/html/Guo_Automatic_Network_Pruning_via_Hilbert-Schmidt_Independence_Criterion_Lasso_under_Information_ICCV_2023_paper.html) | `S` | [PyTorch[A]](https://github.com/sunggo/APIB) |
 | `ICCV`  | [Unified Data-Free Compression: Pruning and Quantization without Fine-Tuning](https://openaccess.thecvf.com/content/ICCV2023/html/Bai_Unified_Data-Free_Compression_Pruning_and_Quantization_without_Fine-Tuning_ICCV_2023_paper.html) | `S` | [PyTorch[A]](https://github.com/Dtudy/UDFC) |
 | `ICCV`  | [Structural Alignment for Network Pruning through Partial Regularization](https://openaccess.thecvf.com/content/ICCV2023/html/Gao_Structural_Alignment_for_Network_Pruning_through_Partial_Regularization_ICCV_2023_paper.html) | `S` | |
@@ -164,6 +166,7 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [CATRO: Channel Pruning via Class-Aware Trace Ratio Optimization](https://ieeexplore.ieee.org/document/10094002) | `S` | | 
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Adaptive Filter Pruning via Sensitivity Feedback](https://ieeexplore.ieee.org/document/10064249) | `S` | | 
 | [Neurocomputing](https://www.sciencedirect.com/journal/neurocomputing) | [Filter pruning with uniqueness mechanism in the frequency domain for efficient neural networks](https://www.sciencedirect.com/science/article/pii/S0925231223001364) | `S` | |
+| [IEEE Trans. PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | [Compact Neural Network via Stacking Hybrid Units](https://ieeexplore.ieee.org/abstract/document/10275036) | `S` | |
 | [IEEE Trans. PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | [Performance-aware Approximation of Global Channel Pruning for Multitask CNNs](https://arxiv.org/abs/2303.11923) | `S` | [PyTorch[A]](https://github.com/HankYe/PAGCP/tree/main) |
 | [IEEE Trans. PAMI](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34) | [Adaptive Search-and-Training for Robust and Efficient Network Pruning](https://ieeexplore.ieee.org/abstract/document/10052756) | `S` | |
 | [Image Vis. Comput.](https://www.sciencedirect.com/journal/image-and-vision-computing) | [Loss-aware automatic selection of structured pruning criteria for deep neural network acceleration](https://www.sciencedirect.com/science/article/pii/S0262885623001191) | `S` | [PyTorch[A]](https://github.com/ghimiredhikura/laasp) |
