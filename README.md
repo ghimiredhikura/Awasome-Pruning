@@ -161,6 +161,7 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 | Journal | Title | Type | Code |
 |:-----|:------|:----:|:----:|
 | [IEEE Internet Things J.](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6488907) | [SNPF: Sensitiveness Based Network Pruning Framework for Efficient Edge Computing](https://ieeexplore.ieee.org/document/10250769) | `S` | | 
+| [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Manipulating Identical Filter Redundancy for Efficient Pruning on Deep and Complicated CNN](https://ieeexplore.ieee.org/document/10283855) | `S` | | 
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Block-Wise Partner Learning for Model Compression](https://ieeexplore.ieee.org/document/10237122) | `S` | [PyTorch[A]](https://github.com/zhangxin-xd/BPL)| 
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Hierarchical Threshold Pruning Based on Uniform Response Criterion](https://ieeexplore.ieee.org/document/10103912) | `S` | | 
 | [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [CATRO: Channel Pruning via Class-Aware Trace Ratio Optimization](https://ieeexplore.ieee.org/document/10094002) | `S` | | 
