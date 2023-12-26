@@ -6,7 +6,7 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 
 | Section | Year of Publication|
 |:---------| :--- |
-| **[Conference Publications](#conference-publications)** | [`2023`](#2023)  [`2022`](#2022) [`2021`](#2021)  [`2020`](#2020) [`2019`](#2019) [`2018`](#2018) [`2017`](#2017)|
+| **[Conference Publications](#conference-publications)** | [`2024`](#2024)  [`2023`](#2023)  [`2022`](#2022) [`2021`](#2021)  [`2020`](#2020) [`2019`](#2019) [`2018`](#2018) [`2017`](#2017)|
 | **[Journal Publications](#journal-publications)** | [`2023`](#2023-1)  [`2022`](#2022-1) [`2021`](#2021-1)  [`2020`](#2020-1) |
 | **[Survey Articles](#survey-articles)** | [`2020~2023`](#survey-articles) |
 | **[Other Publications](#other-publications)** | [`2022~2023`](#other-publications) |
@@ -20,6 +20,14 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 | `O` |Unofficial or 3rd Party Implementation| 
 
 ## Conference Publications
+
+**<h3 align="center">2024</h3>**
+
+| Venue | Title | Type | Code |
+|:-----|:------|:-----:|:----:|
+| `WACV`  | [Pruning from Scratch via Shared Pruning Module and Nuclear norm-based Regularization](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Pruning_From_Scratch_via_Shared_Pruning_Module_and_Nuclear_Norm-Based_WACV_2024_paper.pdf) | `S` | [PyTorch[A]](https://github.com/jsleeg98/NuSPM) |
+| `WACV`  | [Towards Better Structured Pruning Saliency by Reorganizing Convolution](https://openaccess.thecvf.com/content/WACV2024/papers/Sun_Towards_Better_Structured_Pruning_Saliency_by_Reorganizing_Convolution_WACV_2024_paper.pdf) | `S` | [PyTorch[A]](https://github.com/AlexSunNik/SPSRC) |
+| `WACV`  | [Torque based Structured Pruning for Deep Neural Network](https://openaccess.thecvf.com/content/WACV2024/papers/Gupta_Torque_Based_Structured_Pruning_for_Deep_Neural_Network_WACV_2024_paper.pdf) | `S` |  |
 
 **<h3 align="center">2023</h3>**
 
