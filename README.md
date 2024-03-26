@@ -168,7 +168,7 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 
 | Journal | Title | Type | Code |
 |:-----|:------|:----:|:----:|
-| [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) | [Distilled Gradual Pruning with Pruned Fine-tuning]([https://ieeexplore.ieee.org/document/10438214](https://ieeexplore.ieee.org/document/10438214)) | `U` | [PyTorch[A]]([https://github.com/he-y/soft-filter-pruning](https://github.com/rom42pla/dg2pf)) | 
+| [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) | [Distilled Gradual Pruning with Pruned Fine-tuning]([https://ieeexplore.ieee.org/document/10438214](https://ieeexplore.ieee.org/document/10438214)) | `U` | [PyTorch[A]](https://github.com/rom42pla/dg2pf) | 
 
 <h3 align="center">2023</h3>
 
