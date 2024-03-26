@@ -7,7 +7,7 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 | Section | Year of Publication|
 |:---------| :--- |
 | **[Conference Publications](#conference-publications)** | [`2024`](#2024)  [`2023`](#2023)  [`2022`](#2022) [`2021`](#2021)  [`2020`](#2020) [`2019`](#2019) [`2018`](#2018) [`2017`](#2017)|
-| **[Journal Publications](#journal-publications)** | [`2023`](#2023-1)  [`2022`](#2022-1) [`2021`](#2021-1)  [`2020`](#2020-1) |
+| **[Journal Publications](#journal-publications)** | [`2024`](#2024-1) [`2023`](#2023-1)  [`2022`](#2022-1) [`2021`](#2021-1)  [`2020`](#2020-1) |
 | **[Survey Articles](#survey-articles)** | [`2020~2023`](#survey-articles) |
 | **[Other Publications](#other-publications)** | [`2022~2023`](#other-publications) |
 | **[Pruning Software and Toolbox](#pruning-software-and-toolbox)** | [`2019~2023`](#pruning-software-and-toolbox) |
