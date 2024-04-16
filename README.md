@@ -25,6 +25,17 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 
 | Venue | Title | Type | Code |
 |:-----|:------|:-----:|:----:|
+| `CVPR`  | [OrthCaps: An Orthogonal CapsNet with Sparse Attention Routing and Pruning](https://arxiv.org/abs/2403.13351) | `S` | [PyTorch[A]](https://github.com/ornamentt/OrthCap) |
+| `CVPR`  | [Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers](https://arxiv.org/abs/2305.17328) | `S` | [PyTorch[A]](https://jha-lab.github.io/zerotprune/) |
+| `CVPR`  | [Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning](https://github.com/iurada/px-ntk-pruning) | `S` | [PyTorch[A]](https://github.com/iurada/px-ntk-pruning) |
+| `CVPR`  | BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks | `S` | |
+| `CVPR`  | [FedMef: Towards Memory-efficient Federated Dynamic Pruning](https://arxiv.org/pdf/2403.14737.pdf) | `S` | |
+| `CVPR`  | Resource-Efficient Transformer Pruning for Finetuning of Large Models | `S` | |
+| `CVPR`  | Device-Wise Federated Network Pruning | `S` | |
+| `CVPR`  | [Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch](https://arxiv.org/abs/2403.14729) | `S` | |
+| `CVPR`  | [Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment](https://arxiv.org/abs/2403.14729) | `S` | |
+| `CVPR`  | [Diversity-aware Channel Pruning for StyleGAN Compression](https://arxiv.org/abs/2403.13548) | `S` | [PyTorch[A]](https://jiwoogit.github.io/DCP-GAN_site/) |
+| `CVPR`  | [MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer](https://arxiv.org/abs/2403.02991) | `S` | [PyTorch[A]](https://github.com/double125/MADTP) |
 | `WACV`  | [Pruning from Scratch via Shared Pruning Module and Nuclear norm-based Regularization](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Pruning_From_Scratch_via_Shared_Pruning_Module_and_Nuclear_Norm-Based_WACV_2024_paper.pdf) | `S` | [PyTorch[A]](https://github.com/jsleeg98/NuSPM) |
 | `WACV`  | [Towards Better Structured Pruning Saliency by Reorganizing Convolution](https://openaccess.thecvf.com/content/WACV2024/papers/Sun_Towards_Better_Structured_Pruning_Saliency_by_Reorganizing_Convolution_WACV_2024_paper.pdf) | `S` | [PyTorch[A]](https://github.com/AlexSunNik/SPSRC) |
 | `WACV`  | [Torque based Structured Pruning for Deep Neural Network](https://openaccess.thecvf.com/content/WACV2024/papers/Gupta_Torque_Based_Structured_Pruning_for_Deep_Neural_Network_WACV_2024_paper.pdf) | `S` |  |
