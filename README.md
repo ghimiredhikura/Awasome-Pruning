@@ -39,6 +39,9 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 | `WACV`  | [Pruning from Scratch via Shared Pruning Module and Nuclear norm-based Regularization](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Pruning_From_Scratch_via_Shared_Pruning_Module_and_Nuclear_Norm-Based_WACV_2024_paper.pdf) | `S` | [PyTorch[A]](https://github.com/jsleeg98/NuSPM) |
 | `WACV`  | [Towards Better Structured Pruning Saliency by Reorganizing Convolution](https://openaccess.thecvf.com/content/WACV2024/papers/Sun_Towards_Better_Structured_Pruning_Saliency_by_Reorganizing_Convolution_WACV_2024_paper.pdf) | `S` | [PyTorch[A]](https://github.com/AlexSunNik/SPSRC) |
 | `WACV`  | [Torque based Structured Pruning for Deep Neural Network](https://openaccess.thecvf.com/content/WACV2024/papers/Gupta_Torque_Based_Structured_Pruning_for_Deep_Neural_Network_WACV_2024_paper.pdf) | `S` |  |
+| `WACV`  | [Revisiting Token Pruning for Object Detection and Instance Segmentation](https://openaccess.thecvf.com/content/WACV2024/html/Liu_Revisiting_Token_Pruning_for_Object_Detection_and_Instance_Segmentation_WACV_2024_paper.html) | `S` | [PyTorch[A]](https://github.com/uzh-rpg/svit/) |
+| `WACV`  | [Token Fusion: Bridging the Gap Between Token Pruning and Token Merging](https://openaccess.thecvf.com/content/WACV2024/html/Kim_Token_Fusion_Bridging_the_Gap_Between_Token_Pruning_and_Token_WACV_2024_paper.html) | `S` |  |
+| `WACV`  | [PATROL: Privacy-Oriented Pruning for Collaborative Inference Against Model Inversion Attacks](https://openaccess.thecvf.com/content/WACV2024/html/Ding_PATROL_Privacy-Oriented_Pruning_for_Collaborative_Inference_Against_Model_Inversion_Attacks_WACV_2024_paper.html) | `S` |  |
 
 **<h3 align="center">2023</h3>**
 
