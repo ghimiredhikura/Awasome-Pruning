@@ -36,6 +36,11 @@ Awesome resources in deep neural network pruning. This collection is prepared an
 | `CVPR`  | [Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment](https://arxiv.org/abs/2403.14729) | `S` | |
 | `CVPR`  | [Diversity-aware Channel Pruning for StyleGAN Compression](https://arxiv.org/abs/2403.13548) | `S` | [PyTorch[A]](https://jiwoogit.github.io/DCP-GAN_site/) |
 | `CVPR`  | [MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer](https://arxiv.org/abs/2403.02991) | `S` | [PyTorch[A]](https://github.com/double125/MADTP) |
+| `AAAI`  | [Dynamic Feature Pruning and Consolidation for Occluded Person Re-Identification](https://arxiv.org/abs/2211.14742) | `S` | |
+| `AAAI`  | [REPrune: Channel Pruning via Kernel Representative Selection](https://arxiv.org/abs/2211.14742) | `S` | |
+| `AAAI`  | [Revisiting Gradient Pruning: A Dual Realization for Defending against Gradient Attacks](https://arxiv.org/abs/2401.16687) | `S` | |
+| `AAAI`  | [IRPruneDet: Efficient Infrared Small Target Detection via Wavelet Structure-Regularized Soft Channel Pruning](https://ojs.aaai.org/index.php/AAAI/article/view/28551) | `S` | |
+| `AAAI`  | [EPSD: Early Pruning with Self-Distillation for Efficient Model Compression](https://arxiv.org/abs/2402.00084) | `S` | |
 | `WACV`  | [Pruning from Scratch via Shared Pruning Module and Nuclear norm-based Regularization](https://openaccess.thecvf.com/content/WACV2024/papers/Lee_Pruning_From_Scratch_via_Shared_Pruning_Module_and_Nuclear_Norm-Based_WACV_2024_paper.pdf) | `S` | [PyTorch[A]](https://github.com/jsleeg98/NuSPM) |
 | `WACV`  | [Towards Better Structured Pruning Saliency by Reorganizing Convolution](https://openaccess.thecvf.com/content/WACV2024/papers/Sun_Towards_Better_Structured_Pruning_Saliency_by_Reorganizing_Convolution_WACV_2024_paper.pdf) | `S` | [PyTorch[A]](https://github.com/AlexSunNik/SPSRC) |
 | `WACV`  | [Torque based Structured Pruning for Deep Neural Network](https://openaccess.thecvf.com/content/WACV2024/papers/Gupta_Torque_Based_Structured_Pruning_for_Deep_Neural_Network_WACV_2024_paper.pdf) | `S` |  |
