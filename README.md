@@ -1,6 +1,6 @@
 # Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome resources in deep neural network pruning. This collection is prepared and inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning). 
+Awesome resources in deep neural network pruning. This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning). 
 
 > [Note: You are welcome to create pool requests and add more interesting papers.]
 
