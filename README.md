@@ -25,6 +25,10 @@ Awesome resources in deep neural network pruning. This collection is prepared in
 
 | Venue | Title | Type | Code |
 |:-----|:------|:-----:|:----:|
+| `ICLR`  | [Towards Meta-Pruning via Optimal Transport](https://openreview.net/forum?id=sMoifbuxjB) | `S` | [PyTorch[A]](https://github.com/alexandertheus/Intra-Fusion) |
+| `ICLR`  | [Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework) | `U` | [PyTorch[A]](https://github.com/xyshi2000/Unstructured-Pruning) |
+| `ICLR`  | [Masks, Signs, And Learning Rate Rewinding) | `S` | [PyTorch[A]](https://github.com/xyshi2000/Unstructured-Pruning) |
+| `ICLR`  | [Scaling Laws for Sparsely-Connected Foundation Models) | `S` | [PyTorch[A]](https://github.com/google-research/jaxpruner/tree/main/jaxpruner/projects/bigsparse) |
 | `CVPR`  | [OrthCaps: An Orthogonal CapsNet with Sparse Attention Routing and Pruning](https://arxiv.org/abs/2403.13351) | `S` | [PyTorch[A]](https://github.com/ornamentt/OrthCap) |
 | `CVPR`  | [Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers](https://arxiv.org/abs/2305.17328) | `S` | [PyTorch[A]](https://jha-lab.github.io/zerotprune/) |
 | `CVPR`  | [Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning](https://github.com/iurada/px-ntk-pruning) | `S` | [PyTorch[A]](https://github.com/iurada/px-ntk-pruning) |
