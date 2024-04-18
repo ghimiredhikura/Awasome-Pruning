@@ -1,6 +1,6 @@
 # Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-Awesome resources in deep neural network pruning. This collection is prepared inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning). 
+Awesome resources in deep neural network pruning. This collection is inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning). 
 
 > [Note: You are welcome to create pool requests and add more interesting papers.]
 
@@ -25,12 +25,22 @@ Awesome resources in deep neural network pruning. This collection is prepared in
 
 | Venue | Title | Type | Code |
 |:-----|:------|:-----:|:----:|
-| `ICLR`  | [Towards Meta-Pruning via Optimal Transport](https://openreview.net/forum?id=sMoifbuxjB) | `S` | [PyTorch[A]](https://github.com/alexandertheus/Intra-Fusion) |
+| `ICLR`  | [Towards Meta-Pruning via Optimal Transport](https://openreview.net/forum?id=sMoifbuxjB) | `S` | [PyTorch[A]](https://github.com/alexandertheus/Intra-Fusion) <span id="stars-repo2">Loading...</span> |
 | `ICLR`  | [Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework](https://openreview.net/forum?id=eoSeaK4QJo) | `U` | [PyTorch[A]](https://github.com/xyshi2000/Unstructured-Pruning) |
 | `ICLR`  | [Masks, Signs, And Learning Rate Rewinding](https://openreview.net/forum?id=qODvxQ8TXW) | `S` | [PyTorch[A]](https://github.com/xyshi2000/Unstructured-Pruning) |
 | `ICLR`  | [Scaling Laws for Sparsely-Connected Foundation Models](https://openreview.net/forum?id=i9K2ZWkYIP) | `S` | [PyTorch[A]](https://github.com/google-research/jaxpruner/tree/main/jaxpruner/projects/bigsparse) |
 | `ICLR`  | [Sparse Model Soups: A Recipe for Improved Pruning via Model Averaging](https://openreview.net/forum?id=xx0ITyHp3u) | `S` |  |
 | `ICLR`  | [Adaptive Sharpness-Aware Pruning for Robust Sparse Networks](https://openreview.net/forum?id=QFYVVwiAM8) | `S` |  |
+| `ICLR`  | [What Makes a Good Prune? Maximal Unstructured Pruning for Maximal Cosine Similarity](https://openreview.net/forum?id=jsvvPVVzwf) | `U` | [PyTorch[A]](https://github.com/gmw99/what_makes_a_good_prune) |
+| `ICLR`  | [In defense of parameter sharing for model-compression](https://openreview.net/forum?id=ypAT2ixD4X) | `S/U` |  |
+| `ICLR`  | [ECoFLaP: Efficient Coarse-to-Fine Layer-Wise Pruning for Vision-Language Models](https://openreview.net/forum?id=iIT02bAKzv) | `U` | |
+| `ICLR`  | [Data-independent Module-aware Pruning for Hierarchical Vision Transformers](https://openreview.net/forum?id=7Ol6foUi1G) | `S` | [PyTorch[A]](https://github.com/he-y/Data-independent-Module-Aware-Pruning) |
+| `ICLR`  | [SWAP: Sparse Entropic Wasserstein Regression for Robust Network Pruning](https://openreview.net/forum?id=LJWizuuBUy) | `S` |  |
+| `ICLR`  | [Sparse Weight Averaging with Multiple Particles for Iterative Magnitude Pruning](https://openreview.net/forum?id=Y9t7MqZtCR) | `U` | |
+| `ICLR`  | [Synergistic Patch Pruning for Vision Transformer: Unifying Intra- & Inter-Layer Patch Importance](https://openreview.net/forum?id=COO51g41Q4) | `S` |  |
+| `ICLR`  | [FedP3: Federated Personalized and Privacy-friendly Network Pruning under Model Heterogeneity](https://openreview.net/forum?id=hbHwZYqk9T) | `S` |  |
+| `ICLR`  | [The Need for Speed: Pruning Transformers with One Recipe](https://openreview.net/forum?id=MVmT6uQ3cQ) | `S` | [PyTorch[A]](https://github.com/Skhaki18/optin-transformer-pruning) |
+| `ICLR`  | [SAS: Structured Activation Sparsification](https://openreview.net/forum?id=vZfi5to2Xl) | `S` | [PyTorch[A]](https://github.com/DensoITLab/sas_) |
 | `CVPR`  | [OrthCaps: An Orthogonal CapsNet with Sparse Attention Routing and Pruning](https://arxiv.org/abs/2403.13351) | `S` | [PyTorch[A]](https://github.com/ornamentt/OrthCap) |
 | `CVPR`  | [Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers](https://arxiv.org/abs/2305.17328) | `S` | [PyTorch[A]](https://jha-lab.github.io/zerotprune/) |
 | `CVPR`  | [Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning](https://github.com/iurada/px-ntk-pruning) | `S` | [PyTorch[A]](https://github.com/iurada/px-ntk-pruning) |
