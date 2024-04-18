@@ -19,7 +19,13 @@ Awesome resources in deep neural network pruning. This collection is inspired by
 | `A` |Official or Author Implementation| 
 | `O` |Unofficial or 3rd Party Implementation| 
 
-```javascript
+| Venue | Title | Type | Code | Stars |
+|:-----|:------|:-----:|:----:|:-----:|
+| `ICLR` | [Towards Meta-Pruning via Optimal Transport](https://openreview.net/forum?id=sMoifbuxjB) | `S` | [PyTorch[A]](https://github.com/alexandertheus/Intra-Fusion) | <span id="stars-repo1">Loading...</span> |
+| `ICLR` | [Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework](https://openreview.net/forum?id=eoSeaK4QJo) | `U` | [PyTorch[A]](https://github.com/xyshi2000/Unstructured-Pruning) | <span id="stars-repo2">Loading...</span> |
+| ... | ... | ... | ... | ... |
+
+```html
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const repositories = [
@@ -47,6 +53,8 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 </script>
+
+
 ## Conference Publications
 
 **<h3 align="center">2024</h3>**
