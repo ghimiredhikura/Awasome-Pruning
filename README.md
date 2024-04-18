@@ -19,42 +19,6 @@ Awesome resources in deep neural network pruning. This collection is inspired by
 | `A` |Official or Author Implementation| 
 | `O` |Unofficial or 3rd Party Implementation| 
 
-| Venue | Title | Type | Code | Stars |
-|:-----|:------|:-----:|:----:|:-----:|
-| `ICLR` | [Towards Meta-Pruning via Optimal Transport](https://openreview.net/forum?id=sMoifbuxjB) | `S` | [PyTorch[A]](https://github.com/alexandertheus/Intra-Fusion) | <span id="stars-repo1">Loading...</span> |
-| `ICLR` | [Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework](https://openreview.net/forum?id=eoSeaK4QJo) | `U` | [PyTorch[A]](https://github.com/xyshi2000/Unstructured-Pruning) | <span id="stars-repo2">Loading...</span> |
-| ... | ... | ... | ... | ... |
-
-```html
-<script>
-document.addEventListener('DOMContentLoaded', function() {
-    const repositories = [
-        { name: 'Intra-Fusion', owner: 'alexandertheus', elementId: 'stars-repo1' },
-        { name: 'Unstructured-Pruning', owner: 'xyshi2000', elementId: 'stars-repo2' },
-        // Add more repositories here with their respective owner and elementId
-    ];
-
-    repositories.forEach(repo => {
-        fetch(`https://api.github.com/repos/${repo.owner}/${repo.name}`)
-            .then(response => response.json())
-            .then(data => {
-                const starsElement = document.getElementById(repo.elementId);
-                if (starsElement) {
-                    starsElement.textContent = data.stargazers_count;
-                }
-            })
-            .catch(error => {
-                console.error(`Error fetching star count for ${repo.owner}/${repo.name}`, error);
-                const starsElement = document.getElementById(repo.elementId);
-                if (starsElement) {
-                    starsElement.textContent = 'Error';
-                }
-            });
-    });
-});
-</script>
-
-
 ## Conference Publications
 
 **<h3 align="center">2024</h3>**
