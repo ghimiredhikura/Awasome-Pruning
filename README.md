@@ -19,6 +19,7 @@ Awesome resources in deep neural network pruning. This collection is inspired by
 | `A` |Official or Author Implementation| 
 | `O` |Unofficial or 3rd Party Implementation| 
 
+```javascript
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     const repositories = [
@@ -46,7 +47,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
 });
 </script>
-
 ## Conference Publications
 
 **<h3 align="center">2024</h3>**
