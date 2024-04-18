@@ -25,7 +25,7 @@ Awesome resources in deep neural network pruning. This collection is inspired by
 
 | Venue | Title | Type | Code |
 |:-----|:------|:-----:|:----:|
-| `ICLR`  | [Towards Meta-Pruning via Optimal Transport](https://openreview.net/forum?id=sMoifbuxjB) | `S` | [PyTorch[A]](https://github.com/alexandertheus/Intra-Fusion) <span id="stars-repo2">Loading...</span> |
+| `ICLR`  | [Towards Meta-Pruning via Optimal Transport](https://openreview.net/forum?id=sMoifbuxjB) | `S` | [PyTorch[A]](https://github.com/alexandertheus/Intra-Fusion) |
 | `ICLR`  | [Towards Energy Efficient Spiking Neural Networks: An Unstructured Pruning Framework](https://openreview.net/forum?id=eoSeaK4QJo) | `U` | [PyTorch[A]](https://github.com/xyshi2000/Unstructured-Pruning) |
 | `ICLR`  | [Masks, Signs, And Learning Rate Rewinding](https://openreview.net/forum?id=qODvxQ8TXW) | `S` | [PyTorch[A]](https://github.com/xyshi2000/Unstructured-Pruning) |
 | `ICLR`  | [Scaling Laws for Sparsely-Connected Foundation Models](https://openreview.net/forum?id=i9K2ZWkYIP) | `S` | [PyTorch[A]](https://github.com/google-research/jaxpruner/tree/main/jaxpruner/projects/bigsparse) |
