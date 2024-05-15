@@ -285,11 +285,12 @@ Awesome resources in deep neural network pruning. This collection is inspired by
 ## Pruning Software and Toolbox
 |Year | Title | Type | Code |
 |:----:|:------|:----:|:----:|
+|`2023` | [UPop: Unified and Progressive Pruning for Compressing Vision-Language Transformers](https://proceedings.mlr.press/v202/shi23e.html) | `S` | [PyTorch[A]](https://github.com/sdc17/UPop) |
+|`2023` | [DepGraph: Towards Any Structural Pruning](https://openaccess.thecvf.com/content/CVPR2023/papers/Fang_DepGraph_Towards_Any_Structural_Pruning_CVPR_2023_paper.pdf) | `S` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
 |`2023` | **[Torch-Pruning](https://arxiv.org/abs/2301.12900)** | `S` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
 |`2023` | [JaxPruner: JaxPruner: A concise library for sparsity research](https://arxiv.org/abs/2304.14082) | `U/S` | [PyTorch[A]](https://github.com/google-research/jaxpruner) |
 |`2022` | [FasterAI: Prune and Distill your models with FastAI and PyTorch](https://nathanhubens.github.io/fasterai/) | `U` | [PyTorch[A]](https://github.com/nathanhubens/fasterai) |
 |`2022` | [Simplify: A Python library for optimizing pruned neural networks](https://www.sciencedirect.com/science/article/pii/S2352711021001576) | | [PyTorch[A]](https://github.com/EIDOSlab/simplify) |
-|`2021` | [DepGraph: Towards Any Structural Pruning](https://arxiv.org/abs/2301.12900) | `S` | [PyTorch[A]](https://github.com/VainF/Torch-Pruning) |
 |`2021` | PyTorchViz [A small package to create visualizations of PyTorch execution graphs] | | [PyTorch[A]](https://github.com/szagoruyko/pytorchviz) |
 |`2020` | [What is the State of Neural Network Pruning?](https://proceedings.mlsys.org/paper/2020/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf) | `S/U` | [PyTorch[A]](https://github.com/jjgo/shrinkbench) |
 |`2019` | [Official PyTorch Pruning Tool](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html) | `S/U` | [PyTorch[A]](https://github.com/pytorch/pytorch/blob/master/torch/nn/utils/prune.py) |
