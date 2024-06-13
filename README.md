@@ -44,10 +44,10 @@ Awesome resources in deep neural network pruning. This collection is inspired by
 | `CVPR`  | [OrthCaps: An Orthogonal CapsNet with Sparse Attention Routing and Pruning](https://arxiv.org/abs/2403.13351) | `S` | [PyTorch[A]](https://github.com/ornamentt/OrthCap) |
 | `CVPR`  | [Zero-TPrune: Zero-Shot Token Pruning through Leveraging of the Attention Graph in Pre-Trained Transformers](https://arxiv.org/abs/2305.17328) | `S` | [PyTorch[A]](https://jha-lab.github.io/zerotprune/) |
 | `CVPR`  | [Finding Lottery Tickets in Vision Models via Data-driven Spectral Foresight Pruning](https://github.com/iurada/px-ntk-pruning) | `S` | [PyTorch[A]](https://github.com/iurada/px-ntk-pruning) |
-| `CVPR`  | BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks | `S` | |
+| `CVPR`  | [BilevelPruning: Unified Dynamic and Static Channel Pruning for Convolutional Neural Networks](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_BilevelPruning_Unified_Dynamic_and_Static_Channel_Pruning_for_Convolutional_Neural_CVPR_2024_paper.pdf) | `S` | |
 | `CVPR`  | [FedMef: Towards Memory-efficient Federated Dynamic Pruning](https://arxiv.org/pdf/2403.14737.pdf) | `S` | |
 | `CVPR`  | Resource-Efficient Transformer Pruning for Finetuning of Large Models | `S` | |
-| `CVPR`  | Device-Wise Federated Network Pruning | `S` | |
+| `CVPR`  | [Device-Wise Federated Network Pruning](https://openaccess.thecvf.com/content/CVPR2024/papers/Gao_Device-Wise_Federated_Network_Pruning_CVPR_2024_paper.pdf) | `S` | |
 | `CVPR`  | [Auto-Train-Once: Controller Network Guided Automatic Network Pruning from Scratch](https://arxiv.org/abs/2403.14729) | `S` | |
 | `CVPR`  | [Jointly Training and Pruning CNNs via Learnable Agent Guidance and Alignment](https://arxiv.org/abs/2403.14729) | `S` | |
 | `CVPR`  | [Diversity-aware Channel Pruning for StyleGAN Compression](https://arxiv.org/abs/2403.13548) | `S` | [PyTorch[A]](https://jiwoogit.github.io/DCP-GAN_site/) |
@@ -204,6 +204,8 @@ Awesome resources in deep neural network pruning. This collection is inspired by
 
 | Journal | Title | Type | Code |
 |:-----|:------|:----:|:----:|
+| [Neural Networks](https://www.sciencedirect.com/journal/neural-networks) | [Efficient tensor decomposition-based filter pruning](https://www.sciencedirect.com/science/article/abs/pii/S0893608024003174) | `S` | [PyTorch[A]](https://github.com/pvtien96/CORING) | 
+| [IEEE Trans. NNLS](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385) | [Enhanced Network Compression Through Tensor Decompositions and Pruning](https://ieeexplore.ieee.org/document/10463116) | `S` | [PyTorch[A]](https://github.com/pvtien96/NORTON) | 
 | [IEEE Transactions on Artificial Intelligence](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=76) | [Distilled Gradual Pruning with Pruned Fine-tuning](https://ieeexplore.ieee.org/document/10438214) | `U` | [PyTorch[A]](https://github.com/rom42pla/dg2pf) | 
 
 <h3 align="center">2023</h3>
