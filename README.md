@@ -1,5 +1,7 @@
 # Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fghimiredhikura%2FAwasome-Pruning&label=Visitors&countColor=%23263759)
+
 Awesome resources in deep neural network pruning. This collection is inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning). 
 
 > [Note: You are welcome to create pool requests and add more interesting papers.]
