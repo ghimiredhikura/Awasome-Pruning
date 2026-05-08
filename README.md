@@ -1,21 +1,37 @@
-# Awesome Pruning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<div align="center">
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fghimiredhikura%2FAwasome-Pruning&label=Visitors&countColor=%23263759)
+<h1>Awesome Pruning</h1>
 
-Awesome resources in deep neural network pruning. This collection is inspired by [he-y/Awesome-Pruning](https://github.com/he-y/Awesome-Pruning).
+<p>
+  <a href="https://awesome.re"><img src="https://awesome.re/badge.svg" alt="Awesome"></a>
+  <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fghimiredhikura%2FAwasome-Pruning&label=Visitors&countColor=%23263759" alt="Visitors">
+  <img src="https://img.shields.io/badge/Last%20Updated-2026--05--08-0A7EA4" alt="Last Updated">
+  <img src="https://img.shields.io/badge/Resources-Papers%20%7C%20Surveys%20%7C%20Code-0F766E" alt="Resources">
+</p>
 
-> **Note:** You are welcome to create pull requests and add more interesting papers.  
+<p><em>A curated list of neural network pruning papers, surveys, toolboxes, and code resources across CNNs, ViTs, LLMs, VLMs/MLLMs, diffusion, and deployment-aware compression.</em></p>
+
+<p><strong>Maintained by Deepak Ghimire and the community</strong></p>
+
+<p>Inspired by <a href="https://github.com/he-y/Awesome-Pruning">he-y/Awesome-Pruning</a></p>
+
+</div>
+
+> [!NOTE]
+> Pull requests for missing papers, code links, and corrections are welcome.
+> If this repository helps your work, please cite it using the BibTeX in [Citation](#citation).
 > **Last updated:** 2026-05-08. Recent additions emphasize pruning for LLMs, VLMs/MLLMs, ViTs, diffusion/3DGS, structured sparsity, semi-structured sparsity, and deployment-oriented compression.
 
 ## Contents
 
-| Section | Year of Publication |
+| Section | Quick Links |
 |:--|:--|
 | **[Conference Publications](#conference-publications)** | [`2026`](#2026) [`2025`](#2025) [`2024`](#2024) [`2023`](#2023) [`2022`](#2022) [`2021`](#2021) [`2020`](#2020) [`2019`](#2019) [`2018`](#2018) [`2017`](#2017) |
 | **[Journal Publications](#journal-publications)** | [`2026`](#2026-1) [`2025`](#2025-1) [`2024`](#2024-1) [`2023`](#2023-1) [`2022`](#2022-1) [`2021`](#2021-1) [`2020`](#2020-1) |
 | **[Survey Articles](#survey-articles)** | [`2020~2026`](#survey-articles) |
 | **[Other Publications](#other-publications)** | [`2022~2026`](#other-publications) |
 | **[Pruning Software and Toolbox](#pruning-software-and-toolbox)** | [`2019~2026`](#pruning-software-and-toolbox) |
+| **[Citation](#citation)** | [`BibTeX`](#citation) |
 
 ## Legend
 
@@ -404,3 +420,15 @@ Awesome resources in deep neural network pruning. This collection is inspired by
 | `2020` | [What is the State of Neural Network Pruning?](https://proceedings.mlsys.org/paper/2020/file/d2ddea18f00665ce8623e36bd4e3c7c5-Paper.pdf) | General | `S/U` | [PyTorch[A]](https://github.com/jjgo/shrinkbench) | - |
 | `2019` | [Official PyTorch Pruning Tool](https://pytorch.org/tutorials/intermediate/pruning_tutorial.html) | Toolbox | `S/U` | [PyTorch[A]](https://github.com/pytorch/pytorch/blob/master/torch/nn/utils/prune.py) | Software resource for pruning/compression workflows. |
 
+## Citation
+
+If this repository helps your research, please cite it as:
+
+```bibtex
+@misc{awesome_pruning,
+  title  = {Awesome Pruning},
+  author = {Deepak Ghimire and others},
+  year   = {2026},
+  note   = {Curated list of pruning papers, surveys, software, and code across CNNs, ViTs, LLMs, VLMs/MLLMs, diffusion, and deployment-aware compression}
+}
+```
